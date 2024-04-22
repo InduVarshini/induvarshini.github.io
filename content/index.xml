@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Contents on Personal Home of Indu</title>
+    <link>http://localhost:1313/content/</link>
+    <description>Recent content in Contents on Personal Home of Indu</description>
+    <generator>Hugo 0.125.1</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 20 Apr 2024 20:04:03 -0600</lastBuildDate>
+    <atom:link href="http://localhost:1313/content/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Want to know about me?</title>
+      <link>http://localhost:1313/content/about/</link>
+      <pubDate>Sat, 20 Apr 2024 20:04:03 -0600</pubDate>
+      <guid>http://localhost:1313/content/about/</guid>
+      <description>Do you want to expand your product assortment and want to use AI to solve it? Care about catering to all your customers and don’t want to end up with a website full of out of stock products? You found a person who could solve that for you! I developed a solution for a major US fashion retailer to predict the quantity of a new product to stock and broaden the assortment slashing their overstocking costs by 60%.</description>
+    </item>
+  </channel>
+</rss>

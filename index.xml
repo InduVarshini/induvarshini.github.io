@@ -2,10 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Personal Home of Indu</title>
-    <link>https://induvarshini.github.io/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content on Personal Home of Indu</description>
     <generator>Hugo 0.125.1</generator>
     <language>en-us</language>
-    <atom:link href="https://induvarshini.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 20 Apr 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>http://localhost:1313/personal-website/about/</link>
+      <pubDate>Sat, 20 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/personal-website/about/</guid>
+      <description>👋 Hi there! I&amp;rsquo;m Indu Varshini, a data science professional specializing in leveraging AI and analytics to revolutionize businesses across various industries.&#xA;🛍️ Revolutionizing Retail with AI-Powered Solutions As a data scientist with expertise in AI and machine learning, I have developed cutting-edge solutions that transform the retail industry. One notable achievement includes creating an AI-driven inventory optimization system for a major US fashion retailer. By leveraging advanced algorithms and predictive modeling, this solution accurately forecasts the optimal quantity of new products to stock, leading to a remarkable 60% reduction in overstocking costs while significantly reducing the workload of purchasing agents.</description>
+    </item>
   </channel>
 </rss>
